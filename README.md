@@ -11,7 +11,7 @@ The Exam Management System (EMS) is a full-stack web application designed to aut
 📊 Data Management: Organized storage and retrieval of academic data
 🔹 Tech Stack
 Frontend: HTML, CSS, JavaScript
-Backend: Node.js / PHP
+Backend: PHP
 Database: MySQL
 🔹 Key Highlights
 Built a scalable full-stack application to handle academic workflows
